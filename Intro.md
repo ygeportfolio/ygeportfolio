@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Y
+- 👋 Hi, I’m Yann Emmanuel Gamwo
 - 👀 I’m interested in data analysis, visualization, and machine learning
 - 🌱 I’m currently learning and improving my skills in Python, SQL, Excel, R and Tableau
 - 💞️ I’m looking to collaborate on projects that involve data wrangling, exploratory data analysis, data visualization, and predictive modelling
